@@ -1,5 +1,15 @@
 # Anugraha Charitable Trust, Ernakulam
-Email:
+<html>
+</head>
+<body>
+  <form>
+    <label for="textbox">Email:</label>
+    <input type="text" id="textbox" name="textbox">
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
+
 
 Password:
 
